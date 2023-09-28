@@ -1,0 +1,17 @@
+a b 3
+a f 1
+b a 3
+b g 3
+b c 8
+c b 3
+c g 1
+c d 1
+d c 8
+d f 1
+f a 3
+f d 3
+g a 3
+g b 3
+g c 3
+g d 5
+g f 4
